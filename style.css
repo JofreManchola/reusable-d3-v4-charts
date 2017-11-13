@@ -1,0 +1,19 @@
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: brown;
+}
+
+.axis--x path {
+    display: none;
+}
+
+div{
+    float: left;
+}
+.map{
+    width: 30%;
+    height: 500px;
+}
